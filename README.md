@@ -1,2 +1,3 @@
-# PythonProgramming_Training_AdvancedExercises
+# Python Programming: Advanced Training
 Advanced Python Programming Exercises (MasterSchool training program)
+
